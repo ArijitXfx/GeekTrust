@@ -1,0 +1,3 @@
+GET_RELATIONSHIP Atya Sister-In-Law
+ADD_CHILD Satya Yaya Female
+GET_RELATIONSHIP Satvy Sister-In-Law
